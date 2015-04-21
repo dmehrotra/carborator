@@ -1,0 +1,48 @@
+candidate:
+  affiliations: 'DEMOCRATIC,REPUBLICAN,CONSERVATIVE,WORKING_FAMILIES,INDEPENDENCE,GREEN,OTHER,UNAFFILIATED'
+contributor:
+  compliance:
+    business_categorys: 'Contract:CON,Concessions & Franchises:CONFR,Lobbying:LOBBY,Grant:GRANTS,Pension fund investment contract:PENFUN,Economic development agreement:ECODEV,Real property transaction:RLPROP,Land use action:ULURP'
+    business_relationships: 'Chief executive officer (or equivalent),Chief operating officer (or equivalent),Chief financial officer (or equivalent),Principal owner (of 10% or more),Senior officer (involved in business with the city),Registered lobbyist'
+    employment_types: 'Employed,Self-Employed,Retired,Homemaker,Student,Unemployed'
+    employed_types: 'Employed,Self-Employed'
+division:
+  type: Borough
+  list: "Bronx:X,Brooklyn:K,Manhattan:M,Queens:Q,Staten Island:S"
+email:
+  domain: nycvotes.org
+link:
+  engage:
+    pledge_to_vote: http://www.nyccfb.info/public/VRC/voterAssistanceAndResources.aspx?sm=public_pledge
+    work_the_polls: http://www.vote.nyc.ny.us/html/workers/positions.shtml
+    find_community_event: http://www.nyccfb.info/public/VRC/calendar.aspx
+    voter_assistance: http://www.nyccfb.info/contact/voterassistmail.aspx
+    organizer_services: http://www.nyccfb.info/contact/csumail.aspx
+  inform:
+    debate_schedule: http://www.nyccfb.info/PDF/2013_DebateProgramSchedule.pdf
+    debate_program: http://www.nyccfb.info/debates/?sm=public_09d
+    voter_guide: http://www.nyccfb.info/public/voter-guide/about.aspx?sm=public_00
+    office_descriptions: http://www.nyccfb.info/public/VRC/govtPages.aspx
+    your_representative: http://www.nyccfb.info/public/VRC/voterResources.aspx
+    contribution_database: http://www.nyccfb.info/searchabledb/
+  social:
+    twitter: https://twitter.com/nycvotes
+    facebook: https://www.facebook.com/nycvotes
+  vote:
+    register: http://www.nyccfb.info/public/VRC/registeringToVote.aspx
+    check_registration: https://voterlookup.elections.state.ny.us/
+    election_dates: http://www.nyccfb.info/public/VRC/calendar.aspx
+    polling_site: http://www.nyc.pollsitelocator.com/Search.aspx
+    vote_absentee: http://www.nyccfb.info/public/VRC/vote_absentee_ballot.aspx
+location:
+  short_name: NYC
+  long_name: New York City
+  project_organizer_abbreviation: CFB
+  project_organizer: Campaign Finance Board
+  state: NY
+  state_long: New York
+office:
+  types: 'mayor,public_advocate,comptroller,borough_president,city_council,undeclared,governor,lt_governor,attorney_general,civil_court_judge_county,state_senator,member_of_the_assembly,congress'
+civic_office:
+  types: ''
+remote_polling_places: false

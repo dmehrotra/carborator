@@ -1,6 +1,9 @@
 require "carborator/version"
+require "carborator/config"
 
 
 module Carborator
-  # Your code goes here...
+	def self.t(keys)
+	  keys.split('.').inject(Carborator::Config.vars) { |config, key| config[key] }
+	end
 end
