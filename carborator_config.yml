@@ -1,0 +1,3 @@
+division:
+  type: Borough
+  list: "Bronx:X,Brooklyn:K,Manhattan:M,Queens:Q,Staten Island:S"

@@ -5,8 +5,7 @@ describe Carborator do
     expect(Carborator::VERSION).not_to be nil
   end
 
-  it 'does something useful' do
-    var = Carborator::Config.vars
-    binding.pry
+  it 'it returns a property from the YAML when given a specific key' do
+     expect(Carborator.pull("division.type")).to eq("Borough") 
   end
 end

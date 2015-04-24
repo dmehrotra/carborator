@@ -3,7 +3,7 @@ require "carborator/config"
 
 
 module Carborator
-	def self.t(keys)
+	def self.pull(keys)
 	  keys.split('.').inject(Carborator::Config.vars) { |config, key| config[key] }
 	end
 end
